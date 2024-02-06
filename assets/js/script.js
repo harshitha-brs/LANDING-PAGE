@@ -16,7 +16,7 @@ const quotes = [
   "The Goal of life is , living in agreement with nature",
   "Push yourself..because no one else going to do it for you.",
   "Rainy days should be spent at home , with a cup of coffee and a good book.",
-  "Every unset is the oppurtunity to reset."
+  "Every sunset is the oppurtunity to reset."
 ];
 
 // Get image path from assets folder
